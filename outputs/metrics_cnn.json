@@ -1,0 +1,10 @@
+{
+  "Model": "CNN from scratch",
+  "Accuracy": 0.6105769230769231,
+  "Precision": 0.6919060052219321,
+  "Recall": 0.6794871794871795,
+  "F1": 0.685640362225097,
+  "AUC": 0.6334757834757835,
+  "FalseNegatives": 125.0,
+  "FalsePositives": 118.0
+}

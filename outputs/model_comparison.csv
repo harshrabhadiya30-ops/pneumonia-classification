@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,AUC,FalseNegatives,FalsePositives
+Baseline: Logistic Regression,0.7644,0.7323,0.9821,0.839,0.8999,7,140
+CNN from scratch,0.6106,0.6919,0.6795,0.6856,0.6335,125,118
+Transfer learning (MobileNetV2),0.8654,0.843,0.9641,0.8995,0.9607,14,70

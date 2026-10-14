@@ -1,0 +1,10 @@
+{
+  "Model": "Transfer learning (MobileNetV2)",
+  "Accuracy": 0.8653846153846154,
+  "Precision": 0.8430493273542601,
+  "Recall": 0.9641025641025641,
+  "F1": 0.8995215311004785,
+  "AUC": 0.960694718387026,
+  "FalseNegatives": 14.0,
+  "FalsePositives": 70.0
+}

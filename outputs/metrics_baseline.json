@@ -1,0 +1,10 @@
+{
+  "Model": "Baseline: Logistic Regression",
+  "Accuracy": 0.7644230769230769,
+  "Precision": 0.7323135755258127,
+  "Recall": 0.982051282051282,
+  "F1": 0.8389923329682366,
+  "AUC": 0.8998575498575498,
+  "FalseNegatives": 7.0,
+  "FalsePositives": 140.0
+}
